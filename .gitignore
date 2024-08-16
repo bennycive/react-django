@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+env/
+venv/
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.so
+*.zip
+*.pyo
+*.orig
+*.psd
+*.tgz
+*.hdf5
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+/build
+/dist
+.DS_Store
+
+# Others
+.env
+.idea/
+.vscode/
+*.swp
